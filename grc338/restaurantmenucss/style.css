@@ -12,10 +12,16 @@ h1{
 h2{
 	color: #FFFFFF;
 	font-family: Lato, sans-serif;
+	text-align: center;
 }
 
 h3{
 	color: #FFFFFF;
 	font-family: Lato, sans-serif;
 	text-transform: uppercase;
+}
+
+p{
+	color: #FFFFFF;
+	font-family: Lato, sans-serif;
 }
