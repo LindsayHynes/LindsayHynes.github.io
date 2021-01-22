@@ -1,0 +1,19 @@
+body{
+	background-color: rgb (153,51,0);
+}
+h1{
+	color:rgb (255,255,255);
+	font size: 3em;
+	font-family: Lato;
+}
+
+h2{
+	color:rgb (255,255,255);
+	font-family: Lato;
+}
+
+h3{
+	color:rgb (255,255,255);
+	font-family: Lato;
+	text-transform: uppercase;
+}
