@@ -5,16 +5,17 @@ body{
 h1{
 	color:rgb (255,255,255);
 	font size: 3em;
-	font-family: Lato;
+	font-family: Lato, sans-serif;
+	text-align: center;
 }
 
 h2{
 	color:rgb (255,255,255);
-	font-family: Lato;
+	font-family: Lato, sans-serif;
 }
 
 h3{
 	color:rgb (255,255,255);
-	font-family: Lato;
+	font-family: Lato, sans-serif;
 	text-transform: uppercase;
 }
