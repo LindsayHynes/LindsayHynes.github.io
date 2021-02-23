@@ -2,7 +2,8 @@
 
 div.container {
     max-width: 60em;
-    margin: 1em 3em 1.5em 3em;
+    margin: 0 auto;
+    
    
 }
 
@@ -18,7 +19,7 @@ nav ul{
 
 nav ul li{
     display:inline;
-   margin-right: 1.5em;
+   margin-left: 1.5em;
     list-style-type: none;
     font-family: Caslon, serif;
     font-weight: bold;
@@ -50,6 +51,7 @@ h2{
 	font-family: Caslon, serif;
 	text-align: left;
     text-transform: uppercase;
+    margin-left: 0em;
     
 }
 
@@ -70,6 +72,7 @@ h4{
 p{
 	color: #222222;
 	font-family: Lato, sans-serif;
+    margin-left: 0em;
 }
 
 
