@@ -1,9 +1,8 @@
 /*CSS DOCUMENT*/
 
 div.container {
-    max-width: 603m;
+    max-width: 60em;
     margin: 1em 3em 1.5em 3em;
-    display: grid;
    
 }
 
@@ -19,7 +18,7 @@ nav ul{
 
 nav ul li{
     display:inline;
-   margin-left: 1.5em;
+   margin-right: 1.5em;
     list-style-type: none;
     font-family: Caslon, serif;
     font-weight: bold;
