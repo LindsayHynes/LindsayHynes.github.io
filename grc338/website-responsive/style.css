@@ -1,0 +1,112 @@
+/*CSS DOCUMENT*/
+
+div.container {
+    max-width: 60em;
+    margin: 0 auto;
+    
+   
+}
+
+
+img {
+    width: 100%; 
+}
+
+nav ul{
+    padding: 0em;
+}
+
+nav ul li{
+    display:inline;
+    margin-left: 1.5em;
+    list-style-type: none;
+    font-family: Caslon, serif;
+    font-weight: bold;
+    font-size: 2.5em;
+    font-weight: 550;
+    text-transform: uppercase;
+    
+}
+
+nav ul li a{
+    color:#5D6436;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: #88976D;
+}
+
+article{
+    padding: 0 .5em
+    max-width: 40em;
+    margin: auto;
+}
+
+body{
+	margin: 1em 2em 1.5em 3em
+}
+
+h1 {  
+    width: 5em;  
+}
+
+h2{
+	color: #88976D;
+	font-family: Caslon, serif;
+	text-align: left;
+    text-transform: uppercase;
+    margin-left: 0em;
+    
+}
+
+h3{
+	color: #88976D;
+	font-family: Lato, sans-serif;
+	text-align: left;
+    
+   
+}
+
+h4{
+	color: #88976D;
+	font-family: Lato, sans-serif;
+	font-style: italic;
+}
+
+p{
+	color: #222222;
+	font-family: Lato, sans-serif;
+    margin-left: 0em;
+    line-height: 1.6em;
+    margin-bottom: 1em
+}
+
+ul{
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.6em;
+    margin-left: 2em;
+    color: #222222;
+    margin-bottom: 1.5em;
+}
+
+li{
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.6em;
+    margin-bottom: 1.2em;
+    
+}
+
+li p{
+    margin-bottom: 0;
+}
+
+@media screen and (min-width:60em){
+    nav ul li{
+        display: inline;
+    }
+}
