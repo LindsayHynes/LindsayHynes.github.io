@@ -18,7 +18,7 @@ nav ul{
 
 nav ul li{
     display:inline;
-    margin-left: 1.5em;
+    margin-right:0.3em;
     list-style-type: none;
     font-family: Caslon, serif;
     font-weight: bold;
@@ -38,7 +38,7 @@ nav ul li a:hover{
 }
 
 article{
-    padding: 0 .5em
+    padding: 0.5em;
     max-width: 40em;
     margin: auto;
 }
@@ -84,10 +84,10 @@ p{
 
 ul{
     font-family: Lato, sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal;
     line-height: 1.6em;
-    margin-left: 2em;
+    margin-left: 0em;
     color: #222222;
     margin-bottom: 1.5em;
 }
